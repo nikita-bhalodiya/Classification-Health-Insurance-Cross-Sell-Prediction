@@ -10,39 +10,39 @@ Drive Link: -https://colab.research.google.com/drive/1e4F2smsYSr_nW93aPKeV_Ur3DP
 
 Email : nikita.bhalodiya3717@gmail.com
 
-Project Summary:
+**Project Summary:**
 
-1) Loading Data : 
+**1) Loading Data :**
 
-1. Importing libraries
-2. Dataset Loading
-3. Dataset Information
+     1. Importing libraries
+     2. Dataset Loading
+     3. Dataset Information
 
-2) Data Wrangling and Exploratory data analysis(EDA) :
+**2) Data Wrangling and Exploratory data analysis(EDA) :**
 
-1. Univariate Analysis:
+     1. Univariate Analysis:
 
-    1. Distribution of Dependent variable Response
-    2. Distribution of Age
-    3. Distribution of Previously_Insured
-    4. Distribution of  Annual_Preminum
-    5. Distribution of Vehicle_Damage
-    6. Distribution of Vehicle_Age
+             1. Distribution of Dependent variable Response
+             2. Distribution of Age
+             3. Distribution of Previously_Insured
+             4. Distribution of  Annual_Preminum
+             5. Distribution of Vehicle_Damage
+             6. Distribution of Vehicle_Age
 
-2. Bivariate analysis:
-    1. Visualisation of Age VS Response
-    2. Visualisation of Gender Vs Response
-    3. Visualisation of Vehicle Age and Customer Respons
-    4.  Visualisation of Annual_Premium Vs Response
+      2. Bivariate analysis:
+             1. Visualisation of Age VS Response
+             2. Visualisation of Gender Vs Response
+             3. Visualisation of Vehicle Age and Customer Respons
+             4.  Visualisation of Annual_Premium Vs Response
 
-3) Cleaning Data : 
+**3) Cleaning Data :**
 
-1. Handling Null Values
-2. Handling Duplicate Values
-3. Remove Outlier
+        1. Handling Null Values
+        2. Handling Duplicate Values
+        3. Remove Outlier
 
-4) Feature Engineerin
+**4) Feature Engineering**
 
-5) Pre processing of the data
+**5) Pre processing of the data**
 
-6) Model implementation
+**6) Model implementation**
